@@ -1,6 +1,5 @@
 # LED Blinking Project (Arduino)
 
-This is my first project using Arduino on Tinkercad.
 
 ## 🔧 Components Used
 - Arduino Uno  
