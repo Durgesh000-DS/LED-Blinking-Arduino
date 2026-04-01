@@ -1,15 +1,18 @@
-// LED Blinking Project
-// Author: Durgesh Savale
+# LED Blinking Project (Arduino)
 
-int ledPin = 13;
+This is my first project using Arduino on Tinkercad.
 
-void setup() {
-  pinMode(ledPin, OUTPUT);
-}
+## 🔧 Components Used
+- Arduino Uno
+- LED
+- Resistor (220 ohm)
+- Breadboard
 
-void loop() {
-  digitalWrite(ledPin, HIGH); // LED ON
-  delay(1000);                // wait 1 second
-  digitalWrite(ledPin, LOW);  // LED OFF
-  delay(1000);                // wait 1 second
-}
+## ⚙️ Working
+The LED connected to pin 13 blinks every 1 second.
+
+## 💻 Simulation
+This project is simulated using Tinkercad.
+
+## 📌 Author
+Durgesh Savale
